@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Kalkulator BMI</string>
+    <string name="app_title">Kalkulator BMI</string>
+    <string name="app_subtitle">Rozin • Pantau Berat Badan Ideal</string>
+    <string name="section_input_title">Data Pengukuran</string>
+    <string name="section_input_subtitle">Masukkan berat dan tinggi badan Anda</string>
+    <string name="hint_weight">Berat Badan</string>
+    <string name="hint_height">Tinggi Badan</string>
+    <string name="unit_kg">kg</string>
+    <string name="unit_cm">cm</string>
+    <string name="unit_bmi">kg/m²</string>
+    <string name="btn_hitung">Hitung BMI</string>
+    <string name="btn_reset">Reset</string>
+    <string name="result_title">Hasil Analisis BMI</string>
+    <string name="result_initial_score">--.-</string>
+    <string name="result_initial_badge">Belum Dihitung</string>
+    <string name="result_initial_desc">Silakan masukkan berat dan tinggi badan, lalu tekan Hitung BMI.</string>
+    <string name="result_default_placeholder">Hasil akan muncul di sini</string>
+    <string name="reference_title">Kategori BMI Standar</string>
+    <string name="reference_subtitle">Klasifikasi acuan berdasarkan standar kesehatan</string>
+    <string name="cat_underweight">Kurus (Underweight)</string>
+    <string name="cat_underweight_range">&lt; 18.5</string>
+    <string name="cat_normal">Normal (Ideal)</string>
+    <string name="cat_normal_range">18.5 – 24.9</string>
+    <string name="cat_overweight">Kelebihan Berat Badan</string>
+    <string name="cat_overweight_range">25.0 – 29.9</string>
+    <string name="cat_obese">Obesitas</string>
+    <string name="cat_obese_range">≥ 30.0</string>
+    <string name="desc_icon_health">Icon Kesehatan</string>
+    <string name="desc_dot_underweight">Indikator Kurus</string>
+    <string name="desc_dot_normal">Indikator Normal</string>
+    <string name="desc_dot_overweight">Indikator Kelebihan</string>
+    <string name="desc_dot_obese">Indikator Obesitas</string>
+</resources>
